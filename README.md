@@ -4,10 +4,9 @@ A REST API for detecting and classifying Bangladeshi Taka banknotes using a YOLO
 
 ---
 * deployed on cloud on render*
-* web link$
-  '''
-  https://bangladeshi-note-detection.onrender.com/
-  '''
+* web link
+ `https://bangladeshi-note-detection.onrender.com/`
+  
 ## Project Structure
 
 ```
